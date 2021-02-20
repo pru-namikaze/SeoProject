@@ -1,0 +1,45 @@
+{
+    "News":
+          {
+            "Local": ["banashankari", "basavanagudi", "hebbal", "indira nagar", "jayanagar", "koramangala", "malleswaram", "marathahalli", "ulsoor", "whitefield"],
+            "National": ["chandigarh", "chennai", "gandhinagar", "jaipur", "kolkata", "mumbai", "new delhi", "surat", "bengaluru", "hyderabad", "pune", "india"],
+            "International": ["bangkok", "bangkok", "california", "dubai", "london", "new york", "paris", "seoul", "singapore", "tokyo"]
+          },
+    "Sports":
+          {
+            "Cricket": ["abhinav mukund", "ajinkya rahane", "axar patel", "bhuvneshwar kumar", "cheteshwar pujara", "dinesh karthik", "hardik pandya", "ishant sharma", "jasprit bumrah", "jaydev unadkat", "k. l. rahul", "kedar jadhav", "kuldeep yadav", "mahendra singh dhoni", "manish pandey", "mohammed shami", "mohammed siraj", "murali vijay", "parthiv patel", "ravichandran ashwin", "ravindra jadeja", "rishabh pant", "rohit sharma", "shardul thakur", "shikhar dhawan", "shreyas iyer", "suresh raina", "umesh yadav", "vijay shankar", "virat kohli", "washington sund", "wriddhiman saha", "yuvraj singh", "yuzvendra chahal"],
+            "Tennis": ["alice marble", "althea gibson", "amélie mauresmo", "andre agassi", "andy roddick", "ann haydon-jones", "arantxa sánchez vicario", "arthur ashe", "ashley cooper", "bill johnston", "bill tilden", "billie jean king", "björn borg", "bobby riggs", "boris becker", "bunny austin", "chris evert", "don budge", "doris hart", "dorothea lambert chambers", "ellsworth vines", "evonne goolagong cawley", "frank sedgman", "fred perry", "fred stolle", "gabriela sabatini", "gottfried von cramm", "guillermo vilas", "gustavo kuerten", "hana mandlíková", "helen hull jacobs", "helen wills", "henri cochet", "ilie năstase", "ivan lendl", "jack crawford", "jack kramer", "jan kodeš", "jaroslav drobný", "jean borotra", "jennifer capriati", "jim courier", "jimmy connors", "john mcenroe", "john newcombe", "justine henin", "ken rosewall", "kim clijsters", "lew hoad", "lindsay davenport", "lleyton hewitt", "louise brough", "manuel orantes", "manuel santana", "marat safin", "margaret court", "margaret osborne dupont", "maria bueno", "maria sharapova", "martina hingis", "martina navratilova", "mary pierce", "mats wilander", "maureen connolly", "michael chang", "molla mallory", "monica seles", "neale fraser", "nicola pietrangeli", "norman brookes", "novak djokovic", "pancho gonzalez", "pancho segura", "pat cash", "patrick rafter", "pauline betz addie", "pete sampras", "rafael nadal", "rené lacoste", "rod laver", "roger federer", "roy emerson", "serena williams", "shirley fry irvin", "stan smith", "stefan edberg", "steffi graf", "suzanne lenglen", "svetlana kuznetsova", "thomas muster", "tony roche", "tony trabert", "tony wilding", "tracy austin", "venus williams", "vic seixas", "virginia wade", "william renshaw", "yannick noah", "yevgeny kafelnikov"],
+            "Football": ["alfredo di stefano", "cristiano ronaldo", "diego maradona", "garrincha", "johan cruyff", "lionel messi", "michel platini", "neymar jr", "pele", "ronaldo nazario", "zinedine zidane"],
+            "Basketball": ["bill russell", "bill sharman", "bill walton", "billy cunningham", "bob cousy", "bob pettit", "charles barkley", "clyde drexler", "dave bing", "dave cowens", "dave debusschere", "david robinson", "dolph schayes", "earl monroe", "elgin baylor", "elvin hayes", "george gervin", "george mikan", "hakeem olajuwon", "hal greer", "isiah thomas", "james worthy", "jerry lucas", "jerry west", "john havlicek", "john stockton", "julius erving", "kareem abdul-jabbar", "karl malone", "kevin mchale", "larry bird", "lenny wilkens", "magic johnson", "michael jordan", "moses malone", "nate archibald", "nate thurmond", "oscar robertson", "patrick ewing", "paul arizin", "pete maravich", "rick barry", "robert parish", "sam jones", "scottie pippen", "shaquille o'neal", "walt frazier", "wes unseld", "willis reed", "wilt chamberlain"]
+          },
+    "Crime": ["Offence","violent","kill","rape","theft","molestation","robbery","threat","privacy leak","hack","fraud","impersonation","murder"],
+    "Politics":["Congress","BJP","AAP","Democracy","Dictator","Monarchy","Prime minister","President","Narendra modi"],
+    "Weather":["rain","summer","winter","monsoon","spring","autumn","fall"],
+ 
+    "Technology":
+    {
+      "Science":["automation","robotics","artificial intelligence","machine learning","neural network","hardware","software","astrophysics","research","medicine","physics","chemistry","biology","computer"],
+      "Business":
+      {
+        "Company":["google","amazon","microsoft","cisco","apple","hp","samsung","lenovo","ibm","dell","oracle","snapdeal","flipcart","myntra"],
+        "Social":["media","facebook","twitter","whatsapp","linkedin","reddit","pinterest","instagram","youtube"]
+      }
+    },
+      "Entertainment":  
+    {
+      "Culture":["song","dance","art","folk","trible","fashion"],
+      "Cinema":
+      {
+        "Bollywood":["amitabh bachchan","salman khan","aamir khan","shahrukh khan","ranbir kapoor","kareena kapoor","akshay kumar","hrithik roshan","aishwarya rai","alia bhatt","anushka sharma","deepika padukone","priyanka chopra","katrina kai","kajol"],
+        "Sandalwood":["rajkumar","puneeth","ravichandran","yash","darshan","sudeep","upendra","ramya","radhika pandit","rachita ram","shruti","rashmika","amulya"],
+        "Kollywood":["rajinikanth","vijay","kamal haasan","surya","madhavan","ajith","trisha","tamannaah","shriya","nayantara","anushka shetty","hansika motwani","kajal aggarwal","samantha","mammootty","mohanlal","mahesh babu","keerthi suresh","nazriya nazim","dulkar salman","sai pallavi","sridivya","tapsi pannu"],
+        "Hollywood":["Johnny Depp","Al Pacino","Robert De Niro","Kevin Spacey","Russell Crowe","Brad Pitt","Angelina Jolie","Leonardo DiCaprio","Tom Cruise","John Travolta","Sylvester Stallone","Kate Winslet","Christian Bale","Morgan Freeman","Keanu Reeves","Nicolas Cage","Hugh Jackman","Edward Norton","Tom Hanks","Charlize Theron","Will Smith","Sean Connery","Keira Knightley","Vin Diesel","Matt Damon","Richard Gere","Catherine Zeta-Jones","Clive Owen","Mel Gibson","George Clooney","Jack Nicholson","Scarlett Johansson","Tom Hardy","Robert Downey ","Orlando Bloom","Ian McKellen","Antonio Banderas","Guy Pearce","Samuel L. Jackson","Sandra Bullock","Meg Ryan","Megan Fox","Nicole Kidman","Gerard Butler","Simon Baker","Cameron Diaz","Katherine Heigl"]
+      }
+    },
+    "Miscellanoeus":
+    {
+      "Local_Atrractions": ["ancient temples", "aquaria", "art galleries", "beaches", "botanical gardens", "bridges", "camping", "castles", "coral reefs", "deserts", "forests", "former prisons", "hiking", "historical places", "libraries", "monuments", "mountains", "museums", "national parks", "skyscrapers", "tropical island resorts", "zoos"],
+      "Classified_Ads": ["built-in", "dining room", "ducted heating", "electric light fittings", "ensuite bathroom", "full board", "fully furnished", "garage", "semi furnished", "air conditioning", "amenities", "bedroom", "built-in cupboards", "built-in robes", "carpet", "comprises", "couple", "cupboards", "curtains", "decorative", "deposit", "detached", "electric hot water service", "enclosed", "established", "expenses", "family", "features", "fittings", "floor", "floor coverings", "fully tiled", "furnished", "gas hot water service", "heater", "hot water service", "house", "kitchen", "kitchenette", "laundry", "lounge", "negotiable", "residence", "roof", "room", "terrace"],
+      "Travel_Tour": ["trivago","srs","meru","uber","ola","makemytrip","redbus","yatra"]
+    }
+  }
